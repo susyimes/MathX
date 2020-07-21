@@ -12,6 +12,6 @@ if (a>0&&a≠1)
 
 readmore:  https://baike.baidu.com/item/%E5%AF%B9%E6%95%B0%E5%85%AC%E5%BC%8F/5557846?fr=aladdin
 
-# Sigmoid
+# 3.Sigmoid
 ![](https://sweet-fish.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200721165524.png)
 
